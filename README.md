@@ -44,7 +44,7 @@ The primary objective is to automate grape quality assessment, reducing manual i
 ## 🔄 Project Workflow
 
 <p align="center">
-  <img src="screenshots/workflow.png" width="800">
+  <img src="screenshots/workflow.png" alt="Project Workflow" width="800">
 </p>
 
 ---
