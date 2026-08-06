@@ -106,14 +106,6 @@ python "gui3 (1).py"
 
 The application predicts grape quality from uploaded images using the trained **Graph Convolutional Network (GCN)** model.
 
-### Repository Contents
-
-- 📜 Python source code
-- 🎥 Project demonstration video
-- 📷 Application screenshots
-- 📄 Project documentation
-- 📘 README
-
 ---
 
 ## 🚀 Future Improvements
