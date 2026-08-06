@@ -15,6 +15,10 @@ https://doi.org/10.1109/ICDSBS63635.2025.11031647
 
 A Graph Convolutional Network (GCN)-based grape quality prediction system that combines image processing and graph-based deep learning to classify grape quality through an interactive Tkinter desktop application.
 
+> **Repository Note**
+>
+> The published IEEE paper presents the research methodology and experimental findings. This repository contains the complete implementation, including data preprocessing, feature extraction, model training scripts, GUI application, workflow, and supporting project documentation.
+
 ---
 
 ## 📖 Overview
