@@ -2,7 +2,7 @@
 
 ## 📄 Published Research Paper
 
-This project is based on our published IEEE conference paper.
+This repository extends the work presented in our published IEEE conference paper by providing the complete implementation, project documentation, and desktop application.
 
 **Title:**  
 *An Enhanced Grape Quality Prediction Using Near Optimal Convolution Neural Network and Image Processing Techniques*
