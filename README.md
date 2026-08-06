@@ -1,5 +1,18 @@
 # 🍇 Optimizing Grape Quality Prediction Using Deep Learning Techniques
 
+## 📄 Published Research Paper
+
+This project is based on our published IEEE conference paper.
+
+**Title:**  
+*An Enhanced Grape Quality Prediction Using Near Optimal Convolution Neural Network and Image Processing Techniques*
+
+**Conference:**  
+2025 International Conference on Data Science and Business Systems (ICDSBS)
+
+**DOI:**  
+https://doi.org/10.1109/ICDSBS63635.2025.11031647
+
 A Graph Convolutional Network (GCN)-based grape quality prediction system that combines image processing and graph-based deep learning to classify grape quality through an interactive Tkinter desktop application.
 
 ---
